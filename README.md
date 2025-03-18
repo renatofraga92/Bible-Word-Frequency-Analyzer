@@ -1,7 +1,7 @@
-# Bible Word Frequency Analyzer
+# Word Frequency Analyzer
 
 ## Description
-This Python script analyzes a text file (intended for Bible text) and returns the 20 most frequent words, excluding:
+This Python script analyzes a text file and returns the 20 most frequent words, excluding:
 - Punctuation
 - Stop words (common English words like "the", "and", etc.)
 - Numbers
